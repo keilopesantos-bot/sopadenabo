@@ -27,3 +27,5 @@ Lipidos Total: 1.21 g
 Lipidos Saturados : 0.17 g
 Hidratos de Carbono: 11.98 g
 dos quais Acucares: 1.99 g
+Fibra: 1.84 g
+Sal: 0.58 g
